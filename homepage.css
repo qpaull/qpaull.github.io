@@ -1,0 +1,253 @@
+
+
+	/* <link rel="stylesheet" href="homepage.css" type="text/css"> */
+
+
+
+	/*Seiten*/
+
+	#blog{
+		width: 960px;
+		
+		margin-right: auto;
+		margin-left: auto;
+		
+		font-family: Modern;
+		font-size: 15px; 
+		color: white;	
+	}
+	
+	#über{
+		margin: 15px;
+	}
+	
+	#über h1{
+		padding-bottom: 10px;
+		
+		font-family: Modern; 
+		font-size: 15px; 
+		color: white;
+	}
+	
+	#contact{
+		margin: 15px;
+	}
+	
+	#contact h1{
+		padding-bottom: 10px;
+		
+		font-family: Modern; 
+		font-size: 15px; 
+		color: white;
+	}
+	
+	
+	
+	/*Schriften*/
+
+	h1{
+		font-family: Modern; 
+		font-size: 50px; 
+		color: white;
+	}
+	
+	a{
+		text-align: center;
+		text-decoration: none;
+		
+		font-family: Modern; 
+		font-size: 15px; 
+		color: white;
+	}
+	
+	
+	/*Bereiche*/
+	
+	body{
+		font-family: Modern; 
+		font-size: 15px; 
+		color: white;
+		
+		background-image: url(bilder_homepage/Natur6.jpg);	
+	}
+	
+	header{
+		height: 50px;
+		
+		padding-top: 25px;
+		padding-bottom: 25px;
+		
+		text-align: center;
+		
+		font-family: Modern; 
+		font-size: 15px; 
+		color: white;	
+	}
+	
+	
+	/*Navigationszeile*/
+	
+	nav{
+		text-align: center;	
+	}	
+	
+	nav ul{
+		list-style-type: none;
+	}	
+	
+	nav li{
+		display: inline;
+		margin-right: 40px;
+	}	
+	
+	
+	/*linke Seite*/
+
+	section{
+		width: 500px;
+		
+		padding: 15px;			
+		border: 3px solid black;
+		border-radius: 5px;	
+		
+		margin-top: 15px;
+		margin-bottom: 15px;
+		margin-right: 15px;
+		
+		float: left;
+		text-align: center;
+		
+		font-family: Modern; 
+		font-size: 15px; 
+		color: white;
+		
+		background: darkgrey;
+	}
+	
+	.article{
+		height: 120px;
+		
+		margin-top: 15px;
+		margin-bottom: 50px;	
+	}
+	
+	.article a{
+		font-family: Modern; 
+		font-size: 15px; 
+		color: white;
+	}
+	
+	.article img{
+		padding: 20px;
+		border: 2px solid black;
+		
+		margin-right: 10px;
+		
+		float: left;		
+	}
+
+
+	.swipe{
+		height: 120px;
+		
+		margin-top: 15px;
+		margin-bottom: 50px;		
+	}
+
+	.swipe a{
+		font-family: Modern; 
+		font-size: 15px; 
+		color: white;
+	}
+
+	.swipe img{
+		padding: 20px;
+		border: 2px solid black;
+		
+		margin-right: 10px;
+		
+		float: left;		
+	}
+	
+	
+	/*rechte Seite*/
+
+	aside{
+		width: 250px;
+		
+		padding: 20px;
+		border: 2px solid black;
+		border-radius: 5px;
+		
+		margin-top: 15px;
+		margin-bottom: 15px;
+		
+		float: right;
+		
+		background-color: darkgrey;
+	}
+
+	.sidebar a{
+		padding: 5px;
+		
+		font-family: Modern; 
+		font-size: 15px; 
+		color: white;	
+	}
+	
+	.sidebar p{
+		padding: 5px;
+		
+		font-family: Modern; 
+		font-size: 15px; 
+		color: white;
+	}	
+		
+	.sidebar img{
+		padding: 5px;
+		border: 2px solid black;
+		
+		margin-top: 15px;	
+	}
+	
+	
+	/*Fußzeile*/
+	
+	footer{
+		border: 2px solid black;
+		border-radius: 5px;
+		clear: both;
+		
+		
+		font-family: Modern; 
+		font-size: 15px; 
+		color: white;
+		
+		background-color: darkgrey;		
+	}
+	
+	footer p{
+		margin-right: 20px;
+		
+		text-align: right;
+		
+		font-family: Modern; 
+		font-size: 15px; 
+		color: white;
+	}
+	
+	footer ul{
+		padding: 0px;
+		
+		margin: 20px;
+				
+		list-style: none;
+		
+		float: left;
+	}
+	
+	footer li{
+		margin-right: 15px;
+		
+		display: inline;
+	}
